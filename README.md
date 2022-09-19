@@ -1,4 +1,4 @@
-### Hi there 👋
+## About yangzhi（仰止） 👋
 
 <!--
 **yangzhi-1/yangzhi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
