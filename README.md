@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 今年汇总 ✨
-[![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yangzhi-1&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhi-1&layout=compact)](https://github.com/yangzhi-1/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yangzhi-1&repo=yangzhi-1)
