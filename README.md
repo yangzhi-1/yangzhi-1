@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ## 关于仰止 👋
 >“仰止”取自《诗经·小雅·车辖》里的“高山仰止，景行行止”，有行为正大光明，经常“喻以崇高的品行”之意。一直以来，我都想有一个属于自己的博客，在B站上看来许多相关的内容，觉得Hexo博客框架配合butterfly这个主题是真的好看，但是在最开始的时候，我觉得hexo博客上手难度高，所以就没有行动，直到我在B站刷到了一个相关的教学视频，视频内容思路非常清晰，我决定试一试。我顺利完成了node.js和git的安装，相关环境准备完毕后，输入一系列指令，有了博客的雏形；在此期间，我失败过一次，运行过程中频频报错，我也没有学过编程，所以只好重新开始。随后又不断完善优化，才有了今天你们看到的样子，整个过程用了四天。在这个过程中，我也学到了很多，比如：学会了如何使用github托管代码（这是最主要的）。
 最后，感谢每一个到访我的博客的朋友，谢谢你们的支持！
-🏡 个人博客：<a href="https://www.yangzhiblog.com" target="_blank">仰止·Blog</a>
+<br/>🏡 个人博客：<a href="https://www.yangzhiblog.com" target="_blank">仰止·Blog</a>
 ## 今年汇总 ✨
 <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=yangzhi-1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhi-1&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
