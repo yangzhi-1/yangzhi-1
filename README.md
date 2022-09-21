@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ## 今年汇总 ✨
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=yangzhi-1&show_icons=true&theme=tokyonight&locale=cn" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhi-1&layout=compact&theme=tokyonight&locale=cn" />
 
-## 我的歌单
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5J54chZIjlHunQfHtCSQkG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
