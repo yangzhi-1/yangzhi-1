@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 关于仰止 👋
-- 🏡 个人博客：<a href="https://www.yangzhiblog.com" target="_blank">仰止·Blog</a>
+- 🏡 个人博客：<a href="https://yangzhi-1.github.io/" target="_blank">仰止·Blog</a>
 ## 今年汇总 ✨
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=yangzhi-1&show_icons=true&theme=tokyonight&locale=cn" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzhi-1&layout=compact&theme=tokyonight&locale=cn" />
 
